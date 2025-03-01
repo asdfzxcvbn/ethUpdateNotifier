@@ -1,3 +1,6 @@
+# archived
+you should use [updates](https://github.com/asdfzxcvbn/updates), it's much better
+
 # ethUpdateNotifier
 my new update notifier, written for SultanMods/ETHSign in go!
 
